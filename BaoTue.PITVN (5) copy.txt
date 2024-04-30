@@ -1,0 +1,11 @@
+[
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": true,
+        "expiration": "1727578504",
+        "name": "NetflixId",
+        "value": "ct%3DBQAOAAEBEN67VyPLs35qk8eFrg58TQGCYIWGmhR53b8n0I6qr3tuKBLunXAIOThXRF5NzuAsXzJCyRwoTmOOnH-mFqrSvVe-1hbFbASz0QvW1SlOt5JpZWKyiecVxCfnpQMxFvyPydimjM14Z_VRqDHLDGGS7ORlEAWe7uaMHIMhGkZKnes4Ttxl0GwM52cTSVKR9lcOsRAGpObxhv2vXrfc3Nx7lLZpmLX-Ne6hrjVib5udI9yJbZWUFG6kTdWtHoh3pW3GgKJlkiCUfCSUYsQNmge8eLkdZlWVvKFJpI2COKCQEJKJnwe0WbrONedBS30unjATKfJQul_Hheai25rjqyYeYASm3Q_1OYsgyPSUqTR-Ed62PcXwOmgXKvhuYI0s4T9MJaMSMNWTG9P7c8x9zTDBuhASn5KHwfV4JWyfPO34rPJLnWE-4unEiX91cLkbpmSTBtNujHeJX4PXxekbzACuoBe2C1fBFpLB3QJY5EWF1kF_VSNtx3NWZqhLLIqR2BZ6ykXaf3ruN9jxSNMogv3Sa0l-Raorbyv1HxVcDBELbRk0uHZiQVJ0pmOchE2EqUDPkRvz88SmkMrl9CeCoW0PS10r17BODqMB-aOz4LLlTS7CKe0ErW7Wi0h4bTUwRGsh75uU_PYrU2IxUFxbF6RIirYTmpwWqlxUWOVZuiTAVDzhvBFkYjOHjZxLTRSItHfVQ6Zwv6QdhPTTi4mtJjKyW1mMjYN0crT_kOHyzlwzJ37PaFKe1B0TDsacGlz2-Z5OkAs9KGHMzv3keaa1lNUhMdz54v301X4vQMWML_gjfOneNTIA93UWKZuVIOdiplTXchm0%26bt%3Ddbl%26ch%3DAQEAEAABABSGb_RHs6jxWGAntu_k-DRot0R4id_01-Y.%26v%3D2%26mac%3DAQEAEAABABTPNXrNPiQ-8CNl6MQgbMjm25vSDrrZiv0."
+    }
+]
